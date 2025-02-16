@@ -1,6 +1,5 @@
 # Stranger in London
 
-## Date: November 20, 2022 - 23:59
 
 ## Assignment Overview
 A long-awaited first assignment is finally here! Your task is to assist a lost traveler, Hazel, in finding suitable accommodation in London. Hazel traveled from afar, only to discover that his pre-booked hotel was unexpectedly closed due to a hazelnut tree falling at its entrance. 
