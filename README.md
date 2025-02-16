@@ -34,9 +34,5 @@ java Main
 - Integrate **real-time accommodation APIs** for live data.
 - Implement a **machine learning model** to predict best accommodations based on user preferences.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
-This project is open-source and available under the MIT License.
 
