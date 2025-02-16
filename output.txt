@@ -1,0 +1,3 @@
+Accommodation{name='Shared room', price=7.0 Shared room}
+Accommodation{name='Light and spacious flat in South East London', price=95.0 Entire home/apt}
+Accommodation{name='"Big Single Room Near Stratford, East London"', price=25000.0 Private room}
